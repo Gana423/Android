@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/gana/.android/build-cache/fe64ea754007886861241725f27f4fb12b4cc5a9/output/res/color/switch_thumb_material_light.xml"
+    }
+]

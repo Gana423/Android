@@ -1,0 +1,7 @@
+#Wed Jun 21 12:46:44 IST 2017
+base.0=/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_662d82ee9c51cb02b898b06e28d1639a198f69e5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66f5237103641f1fba3d46fd137eb40371430736/classes.dex
+base.1=/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66f5237103641f1fba3d46fd137eb40371430736
+file.0=/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_662d82ee9c51cb02b898b06e28d1639a198f69e5/classes.dex
