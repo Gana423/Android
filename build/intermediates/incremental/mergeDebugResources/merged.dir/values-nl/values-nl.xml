@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="OK">OK</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="about_copyright">Copyright © 2013 Aurélien Chabot</string>
+    <string name="about_licenses_other"/>
+    <string name="app_name">JasminUPnP</string>
+    <string name="contentdirectory">Browser</string>
+    <string name="copyright">Copyright</string>
+    <string name="desc_xml">Beschrijving XML</string>
+    <string name="device_list_empty">Geen apparaat beschikbaar</string>
+    <string name="duration">00:00:00</string>
+    <string name="failed_action">Nagelaten om het item te lezen</string>
+    <string name="license">License</string>
+    <string name="licenses_other">Library licenses</string>
+    <string name="loading">Het laden…</string>
+    <string name="manufacturer">Fabrikant</string>
+    <string name="manufacturer_url">URL Fabrikant</string>
+    <string name="menu_quit">Ophouden</string>
+    <string name="menu_refresh">Verversen</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="model_desc">Model beschrijving</string>
+    <string name="model_name">Modelnaam</string>
+    <string name="model_number">Modelnummer</string>
+    <string name="model_url">Model URL</string>
+    <string name="mute">Dempen</string>
+    <string name="navigation_drawer_close">Sluiten apparaat lijst</string>
+    <string name="navigation_drawer_open">Lijst Open apparaat</string>
+    <string name="noRenderer">Er is geen renderer beschikbaar</string>
+    <string name="no_action_available">Geen actie beschikbaar</string>
+    <string name="pause">Pauzeren</string>
+    <string name="play">Spelen</string>
+    <string name="pref_about_desc"/>
+    <string name="pref_about_title">Over</string>
+    <string name="pref_contentDirectory_audio_desc">Afbeelding muziek</string>
+    <string name="pref_contentDirectory_audio_title">Muziek</string>
+    <string name="pref_contentDirectory_display_name">Weergavenaam</string>
+    <string name="pref_contentDirectory_image_desc">Afbeelding delen</string>
+    <string name="pref_contentDirectory_image_title">Image</string>
+    <string name="pref_contentDirectory_share_contentdirectory">Delen media</string>
+    <string name="pref_contentDirectory_share_contentdirectory_desc">Media delen met andere apparaten in het netwerk</string>
+    <string name="pref_contentDirectory_video_desc">Afbeelding video</string>
+    <string name="pref_contentDirectory_video_title">Video</string>
+    <string name="pref_contentdirectory_desc">Activeer een lokale content provider</string>
+    <string name="pref_contentdirectory_title">Content Provider</string>
+    <string name="pref_share_media_title">Type media te afbeelding</string>
+    <string name="presention_url">Presentatie URL</string>
+    <string name="renderer">Speler</string>
+    <string name="selectRenderer">Selecteer een Renderer</string>
+    <string name="separator"> : </string>
+    <string name="source">Source Code</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop">Stop</string>
+    <string name="udn">UDN</string>
+    <string name="version">Versie</string>
+</resources>

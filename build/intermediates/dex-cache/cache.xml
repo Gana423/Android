@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b276a8fc6566cd9937e7ab41b49f2cc5e9981282">
+        <dex dex="/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_66f5237103641f1fba3d46fd137eb40371430736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/gana/AndroidStudioProjects/DroidUPnP/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_662d82ee9c51cb02b898b06e28d1639a198f69e5/classes.dex" />
+    </item>
+
+</items>
