@@ -1,4 +1,4 @@
-# DroidUPnP
+# AndroidUPnP
 
 Description
 ===========
